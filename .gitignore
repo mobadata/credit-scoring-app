@@ -1,0 +1,14 @@
+# Ignore data
+data/
+*.csv
+
+# Environnement Python
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
